@@ -1,13 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Hello World</title>
-</head>
-<body>
-<h1>Hello Everyone!</h1>
-<p>Hello World!!!</p>
-<button> Yes </button>
-</body>
-</html>
+Follow me on my journey to create a website for my wife's make up 
+business. I have zero experience with web development, so this will be a 
+learning experience.
+
+Today 11/14/2022, I mainly spent my evening configuring my laptop for web 
+development. configured github, creating a repository, and have 2 commits!
